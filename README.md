@@ -1,17 +1,18 @@
-About The Project : Microservice-Gateway
+## About The Project : Microservice-Gateway
 This microservice manages the gateway service, which is the entrance to the rest of the microservices to be used.
 
-Name :
+### Name :
 Edwin Allauca
 
-Built With
-Docker SpringBoot
+### Built With
+Docker 
+SpringBoot
 
-Getting Started and Prerequisites
+### Getting Started and Prerequisites
 Git Clone 
 https://github.com/EAllaucaD/microservice-gateway.git
 
-Usage
+### Usage
 Have docker installed.
 
 Download the app
